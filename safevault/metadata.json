@@ -1,0 +1,6 @@
+{
+  "name": "SafeVault",
+  "description": "Secure Password Manager and Encrypted Notes app with biometric authentication and local SQLCipher encryption.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
